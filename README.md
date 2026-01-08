@@ -30,9 +30,7 @@ test_data/
 
 ## Setup Instructions
 1. Install Python (3.9 or above recommended)
-2. Install project dependencies by running:
-    pip install -r requirements.txt
+2. Install project dependencies by running: pip install -r requirements.txt
 
 ## Execute Tests
-Run the following command from the project root directory:
-    behave
+Run the following command from the project root directory: behave
